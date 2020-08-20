@@ -1,2 +1,2 @@
 # gitskills
-Create a git branch is quick.
+Create a git branch is quick & simple.
